@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\my2017\ai\OpenCVForAndroid\FaceDetectLibrary.iml" filepath="C:\my2017\ai\OpenCVForAndroid\FaceDetectLibrary.iml" />
+      <module fileurl="file://C:\my2017\ai\OpenCVForAndroid\KqwFaceDetectionDemo.iml" filepath="C:\my2017\ai\OpenCVForAndroid\KqwFaceDetectionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCVForAndroid.iml" filepath="$PROJECT_DIR$/OpenCVForAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCVLibrary320/OpenCVLibrary320.iml" filepath="$PROJECT_DIR$/OpenCVLibrary320/OpenCVLibrary320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\my2017\ai\OpenCVForAndroid\app\app.iml" filepath="C:\my2017\ai\OpenCVForAndroid\app\app.iml" />
+    </modules>
+  </component>
+</project>
